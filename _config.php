@@ -5,9 +5,9 @@
 	$password = "";
 	$dbname = "votegram";
 
-	$photos_index_url = 'http://localhost/athletic-instagram/photos.php';
+	$photos_index_url = 'http://localhost/votegram/photos.php';
 
-	$local_index_url = 'http://localhost/athletic-instagram/';
+	$local_index_url = 'http://localhost/votegram/';
 
 
 	// Create connection

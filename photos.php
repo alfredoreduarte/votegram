@@ -7,7 +7,7 @@
 	<title>Instagram photos</title>
 	<!-- Bootstrap -->
 	<!-- <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,300,600,700' rel='stylesheet' type='text/css'> -->
-	<link href="application.css" rel="stylesheet">
+	<link href="css/application.css" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
